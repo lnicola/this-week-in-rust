@@ -16,6 +16,8 @@ If you find any errors in this week's issue, [please submit a PR](https://github
 
 ## News & Blog Posts
 
+* [Rust and the Case of the Redundant Comparison](https://blog.dend.ro/rust-and-the-case-of-the-redundant-comparison/)
+
 # Crate of the Week
 
 This week's crate is [warp](https://github.com/seanmonstar/warp), a fast, composable web framework. Thanks to [Willi Kappler](https://users.rust-lang.org/t/crate-of-the-week/2704/428) for suggestion!
